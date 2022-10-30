@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   role="img"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="adguard.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="17.270833"
+     inkscape:cx="12.072376"
+     inkscape:cy="11.985525"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">AdGuard</title>
+  <path
+     d="m 12,2.225925 c -3.0552129,0 -6.7400392,0.7012899 -9.774075,2.2439647 C 2.225925,7.8012203 2.1843852,16.102668 12,21.774075 21.815615,16.102668 21.774075,7.8012203 21.774075,4.4698897 18.740039,2.9272149 15.055212,2.225925 12,2.225925 Z M 11.91366,14.792942 7.8109924,10.054959 c 0.2696015,-0.1946669 1.4253859,-0.9309805 2.2757306,0.03421 l 1.781325,2.107942 c 0.0073,-8.14e-4 4.72495,-4.8446834 4.736353,-4.8365384 0.200369,-0.1791914 0.565269,-0.4096966 0.980666,-0.082264 z"
+     id="path4"
+     style="stroke-width:0.814506" />
+</svg>
