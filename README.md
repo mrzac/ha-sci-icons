@@ -3,5 +3,5 @@
 # ha-sci-icons
 Additionnal scientific icons for home assistant
 
-
+Inspiration from:
 https://github.com/arallsopp/hass-hue-icons
