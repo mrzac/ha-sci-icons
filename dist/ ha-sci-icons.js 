@@ -34,7 +34,6 @@ window.customIcons["sci"] = { getIcon, getIconList };
 window.customIconsets = window.customIconsets || {};
 window.customIconsets["sci"] = getIcon;
 
-
 console.info(
     `%c HA-SCI-ICONS %c Version 0.0.1 `,
     "color: orange; font-weight: bold; background: black",
