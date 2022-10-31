@@ -1,8 +1,17 @@
+
+# 🌈 ha-sci-icons
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 
-# ha-sci-icons
-Scientific and more icons for home assistant dashboard.
 
+# What is ha-sci-icons?
+
+The goal of `ha-sci-icons` is to provide Scientific and more icons for home assistant dashboard.
+ 
+## features 
+ 
+- 😍 Scientific icons
+- 🚀 Tech icons 
+- 🖌 Brand icons
 
 # Installation 
 
