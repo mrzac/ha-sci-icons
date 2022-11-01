@@ -36,7 +36,7 @@ frontend:
 
 The icons uses the prefix `sci:`.
 
-### Example:
+### Example
 
 ```
 title: My Room
