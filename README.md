@@ -1,25 +1,22 @@
 
-# 🌈 ha-sci-icons
+#  <p align="center"> 🌈 ha-sci-icons </p>
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 
-
-# What is ha-sci-icons?
-
-The goal of `ha-sci-icons` is to provide Scientific and more icons for home assistant dashboard.
+What is ha-sci-icons? `ha-sci-icons` is to provide Scientific and more icons for home assistant dashboard.
  
-## features 
+## 🧐 Features 
  
 - 😍 Scientific icons
 - 🚀 Tech icons 
 - 🖌 Brand icons
 
-# Installation 
+## 🛠️ Installation 
 
-## HACS (Recommended)
+### > HACS (Recommended)
 
 Add this repo via HACS as a plugin and install. 
 
-## Manual
+### > Manual
 
 - Copy the `dist/ha-sci-icons.js` file into `<config>/www/` where `<config>` is your home-assistant config directory (the directory where your `configuration.yaml` resides).
 - Go to Configuration -> Dashboards -> Resources -> Add Resource
@@ -32,7 +29,7 @@ frontend:
 ```
 - Save and restart Home Assistant.
 
-## Utilisation
+## 🧑🏻‍💻 Utilisation
 
 The icons uses the prefix `sci:`.
 
@@ -48,13 +45,22 @@ entities:
     icon: sci:adguard
 ```
 
-## Icons
+## 🍰 Icons
 
-### Scientific icons
+### > Scientific icons
 
-### Brand icons
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Row 1    | Row 1    | Row 1    |
+| Row 2    | Row 2    | Row 2    |
+| Row 3    | Row 3    | Row 3    |
 
-# Troubleshooting
+### > Brand icons
 
-# Thanks
+## Troubleshooting
+
+## 🙇 Acknowledgements 
 Thanks to [@thomasloven](https://github.com/thomasloven/hass-fontawesome), [@arallsopp](https://github.com/arallsopp/hass-hue-icons) and [@hulkhaugen](https://github.com/hulkhaugen/hass-bha-icons)...
+                
+## ➤ License
+Distributed under...
